@@ -1,8 +1,8 @@
-HERY VIDEO,VIDEO GENERATOR,https://www.gptdemo.net/free-video-generator.html
-HERY IMAGE GEERATOR,IMAGE GENERATOR,https://www.gptdemo.net/free-image-generator.html
+1,HERY VIDEO,VIDEO GENERATOR,https://www.gptdemo.net/free-video-generator.html
+1,HERY IMAGE GEERATOR,IMAGE GENERATOR,https://www.gptdemo.net/free-image-generator.html
 DreamFace,OFFICIAL,https://www.dreamfaceapp.com/creation
 TikTok Symphony,OFFICIAL,https://ads.tiktok.com/i18n/login
-DolaAI,OFFICIAL,https://www.dola.com/
+1,DolaAI,OFFICIAL,https://www.dola.com/
 LumaLabs,OFFICIAL,https://auth.lumalabs.ai
 FlowAI,OFFICIAL,https://labs.google/fx/tools/flow
 ArenaAI,OFFICIAL,https://arena.ai/
@@ -11,10 +11,10 @@ DropShotAI,OFFICIAL,https://aistudio.dropshot.io/
 DigenAI,OFFICIAL,https://digen.ai/en/explore
 WizStar,OFFICIAL,https://wizstar.com/login
 ImagenArt,OFFICIAL,https://www.imagine.art/
-MeigenAI,PROMPT COLLECTION.https://www.meigen.ai/
-YesandAI,PROMPT COLLECTION.https://yesand.ai/
-Suno Downloader,DOWNLOADER,https://ai.breezeevolution.com/suno/index.php
+1,MeigenAI,PROMPT COLLECTION.https://www.meigen.ai/
+1,YesandAI,PROMPT COLLECTION.https://yesand.ai/
+1,Suno Downloader,DOWNLOADER,https://ai.breezeevolution.com/suno/index.php
 VIBES AI META,VIDEO GENERATOR,https://vibes.ai/
 NEWTAKE AI,https://www.newtake.ai/
-XMK GEN,VIDEO GENERATOR,https://www.xmk.com/
-MIORA DESIGN,VIDEO GENERATOR,https://miora.design/
+1,XMK GEN,VIDEO GENERATOR,https://www.xmk.com/
+1,MIORA DESIGN,VIDEO GENERATOR,https://miora.design/
