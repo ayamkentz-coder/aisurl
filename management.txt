@@ -1,2 +1,15 @@
 HERYARTS VIDEO,VIDEO GENERATOR,https://www.gptdemo.net/free-video-generator.html
 HERYARTS IMAGE GEERATOR,IMAGE GENERATOR,https://www.gptdemo.net/free-image-generator.html
+DreamFace,OFFICIAL,https://www.dreamfaceapp.com/creation
+TikTok Symphony,OFFICIAL,https://ads.tiktok.com/i18n/login
+DolaAI,OFFICIAL,https://www.dola.com/
+LumaLabs,OFFICIAL,https://auth.lumalabs.ai
+FlowAI,OFFICIAL,https://labs.google/fx/tools/flow
+ArenaAI,OFFICIAL,https://arena.ai/
+DropShotAI,OFFICIAL,https://aistudio.dropshot.io/
+1MinAI,OFFICIAL,https://app.1min.ai/
+DigenAI,OFFICIAL,https://digen.ai/en/explore
+WizStar,OFFICIAL,https://wizstar.com/login
+ImagenArt,OFFICIAL,https://www.imagine.art/
+MeigenAI,PROMPT COLLECTION.https://www.meigen.ai/
+YesandAI,PROMPT COLLECTION.https://yesand.ai/
