@@ -13,3 +13,4 @@ WizStar,OFFICIAL,https://wizstar.com/login
 ImagenArt,OFFICIAL,https://www.imagine.art/
 MeigenAI,PROMPT COLLECTION.https://www.meigen.ai/
 YesandAI,PROMPT COLLECTION.https://yesand.ai/
+Suno Downloader,DOWNLOADER,https://ai.breezeevolution.com/suno/index.php
