@@ -16,3 +16,5 @@ YesandAI,PROMPT COLLECTION.https://yesand.ai/
 Suno Downloader,DOWNLOADER,https://ai.breezeevolution.com/suno/index.php
 VIBES AI META,VIDEO GENERATOR,https://vibes.ai/
 NEWTAKE AI,https://www.newtake.ai/
+XMK GEN,VIDEO GENERATOR,https://www.xmk.com/
+MIORA DESIGN,VIDEO GENERATOR,https://miora.design/
