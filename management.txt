@@ -796,3 +796,4 @@ EZGIF GIF & Video Suite,DOWNLOADER,https://ezgif.com/
 1,IRA Design Gradient Vectors,IMAGE GENERATOR,https://iradesign.io/
 1,Stubborn Funky Character Art,IMAGE GENERATOR,https://stubborn.fun/
 1,Pixeltrue Free Animated Vector,IMAGE GENERATOR,https://www.pixeltrue.com/free-illustrations
+1,MUSIC VERSAL,MUSIC GENERATOR,https://musicversalai.com/home
