@@ -798,3 +798,5 @@ EZGIF GIF & Video Suite,DOWNLOADER,https://ezgif.com/
 1,Pixeltrue Free Animated Vector,IMAGE GENERATOR,https://www.pixeltrue.com/free-illustrations
 1,MUSIC VERSAL,MUSIC GENERATOR,https://musicversalai.com/home
 1,MUSICFUL AI,MUSIC GENERATOR,https://www.musicful.ai/
+1,DOLA WATERMARK REMOVER,WATERMARK REMOVER,https://vynex.ai/tools/dola-watermark-remover
+MAGIC ERASER,WATERMARK REMOVER,https://magiceraser.org/remove-watermark-from-video/
