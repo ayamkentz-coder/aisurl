@@ -800,3 +800,4 @@ EZGIF GIF & Video Suite,DOWNLOADER,https://ezgif.com/
 1,MUSICFUL AI,MUSIC GENERATOR,https://www.musicful.ai/
 1,DOLA WATERMARK REMOVER,WATERMARK REMOVER,https://vynex.ai/tools/dola-watermark-remover
 MAGIC ERASER,WATERMARK REMOVER,https://magiceraser.org/remove-watermark-from-video/
+1,FREE LIPSYNCH,LIPSYNCH,https://freelipsync.com/
