@@ -8,3 +8,4 @@
 3,EURO HEADEND,http://45.172.16.186:9981/playlist/channels
 3,PORTO HEADEND,http://45.172.16.186:9981/playlist/channels
 3,PORTO 2,http://45.172.16.186:9981/playlist/channels
+1,ALL BEST SPORT,https://raw.githubusercontent.com/ayamkentz-coder/aisurl/refs/heads/main/muncang.txt
