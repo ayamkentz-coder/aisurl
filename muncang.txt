@@ -1,0 +1,409 @@
+#EXTM3U
+#EXTINF:-1,Bein-Sport 1 HD
+http://tv.atomspor.workers.dev/?ID=bein-sports-1
+#EXTINF:-1,Bein-Sport 2 HD
+http://tv.atomspor.workers.dev/?ID=bein-sports-2
+#EXTINF:-1,Bein-Sport 3 HD
+http://tv.atomspor.workers.dev/?ID=bein-sports-3
+#EXTINF:-1,Bein-Sport 4 HD
+http://tv.atomspor.workers.dev/?ID=bein-sports-4
+#EXTINF:-1,Bein-Sport 5 HD
+http://tv.atomspor.workers.dev/?ID=bein-sports-5
+#EXTINF:-1,Bein-Sport 1 Max HD
+http://tv.atomspor.workers.dev/?ID=bein-sports-max-1
+#EXTINF:-1,Bein-Sport 2 Max HD
+http://tv.atomspor.workers.dev/?ID=bein-sports-max-2
+#EXTINF:-1,Dazn 1 es
+http://195.178.110.110/dazn1/index.m3u8
+#EXTINF:-1,Dazn 1 es
+http://195.178.110.110/dazn2/index.m3u8
+#EXTINF:-1,Dazn 1 es
+http://195.178.110.110/dazn3/index.m3u8
+#EXTINF:-1,Dazn 1 es
+http://195.178.110.110/dazn4/index.m3u8
+#EXTINF:-1,Dazn f1 es
+http://195.178.110.110/daznf1/index.m3u8
+#EXTINF:-1,liga 1 Max pe
+http://195.178.110.110/liga1max/index.m3u8
+#EXTINF:-1,Foxsports premium amozon
+http://195.178.110.110/foxsportspremium/index.m3u8
+#EXTINF:-1,Foxdeportes
+http://195.178.110.110/foxdeportes/index.m3u8
+#EXTINF:-1,Espnpremium HD
+http://195.178.110.110/espnpremium/index.m3u8
+#EXTINF:-1,Espndeportes
+http://195.178.110.110/espndeportes/index.m3u8
+#EXTINF:-1,Win plus HD
+http://195.178.110.110/winplus/index.m3u8
+#EXTINF:-1,Win sports HD
+http://195.178.110.110/winsports/index.m3u8
+#EXTINF:-1,Win sports 2 HD
+http://195.178.110.110/winsports2/index.m3u8
+#EXTINF:-1,Tudn
+http://195.178.110.110/tudn/index.m3u8
+#EXTINF:-1,fox 1 amozon HD
+http://195.178.110.110/foxsportsmx/index.m3u8
+#EXTINF:-1,fox 2 amozon HD
+http://195.178.110.110/foxsports2mx/index.m3u8
+#EXTINF:-1,foxsports 3 HD
+http://195.178.110.110/foxsports3/index.m3u8
+#EXTINF:-1,DSports
+http://195.178.110.110/dsports/index.m3u8
+#EXTINF:-1,DSports 2
+http://195.178.110.110/dsports2/index.m3u8
+#EXTINF:-1,DSports Plus
+http://195.178.110.110/dsportsplus/index.m3u8
+#EXTINF:-1,TntSports
+http://195.178.110.110/tntsports/index.m3u
+#EXTINF:-1,TntSports cl
+http://195.178.110.110/tntsportschile/index.m3u8
+#EXTINF:-1,Tyc Sports
+http://195.178.110.110/tycsports/index.m3u8
+#EXTINF:-1,SporTV
+http://195.178.110.110/sportv/index.m3u8
+#EXTINF:-1,SporTV 2
+http://195.178.110.110/sportv2/index.m3u8
+#EXTINF:-1,SporTV 3
+http://195.178.110.110/sportv3/index.m3u8
+#EXTINF:-1,ESPN
+http://195.178.110.110/espn/index.m3u8
+#EXTINF:-1,ESPN 2
+http://195.178.110.110/espn2/index.m3u8
+#EXTINF:-1,ESPN 3
+http://195.178.110.110/espn3/index.m3u8
+#EXTINF:-1,ESPN 4
+http://195.178.110.110/espn4/index.m3u8
+#EXTINF:-1,ESPN 5
+http://195.178.110.110/espn5/index.m3u8
+#EXTINF:-1,ESPN 6
+http://195.178.110.110/espn6/index.m3u8
+#EXTINF:-1,ESPN 7
+http://195.178.110.110/espn7/index.m3u8
+#EXTINF:-1,ESPN mx
+http://195.178.110.110/espnmx/index.m3u8
+#EXTINF:-1,ESPN 2 mx
+http://195.178.110.110/espn2mx/index.m3u8
+#EXTINF:-1,ESPN 3 mx
+http://195.178.110.110/espn3mx/index.m3u8
+#EXTINF:-1,ESPN 4 mx
+http://195.178.110.110/espn4mx/index.m3u8
+#EXTINF:-1,Premiere 1
+http://195.178.110.110/premiere1/index.m3u8
+#EXTINF:-1,Premiere 2
+http://195.178.110.110/premiere2/index.m3u8
+#EXTINF:-1,Premiere 3
+http://195.178.110.110/premiere3/index.m3u8
+#EXTINF:-1,Premiere 4
+http://195.178.110.110/premiere4/index.m3u8
+#EXTINF:-1,Premiere 5
+http://195.178.110.110/premiere5/index.m3u8
+#EXTINF:-1,Premiere 6
+http://195.178.110.110/premiere6/index.m3u8
+#EXTINF:-1,Premiere 7
+http://195.178.110.110/premiere7/index.m3u8
+#EXTINF:-1,Even 1 HD
+http://195.178.110.110/even1/index.m3u8
+#EXTINF:-1,Even 2 HD
+http://195.178.110.110/even2/index.m3u8
+#EXTINF:-1,Even 3 HD
+http://195.178.110.110/even3/index.m3u8
+#EXTINF:-1,Even 4 HD
+http://195.178.110.110/even4/index.m3u8
+#EXTINF:-1,Even 5 HD
+http://195.178.110.110/even5/index.m3u8
+#EXTINF:-1,TntSports HD
+http://195.178.110.110/even6/index.m3u8
+#EXTINF:-1,Even 7 HD
+http://195.178.110.110/even7/index.m3u8
+#EXTINF:-1,Even 8 HD
+http://195.178.110.110/even8/index.m3u8
+#EXTINF:-1,Hypermotion 1 HD es
+http://195.178.110.110/hypermotion1/index.m3u8
+#EXTINF:-1,Hypermotion 2 HD es
+http://195.178.110.110/hypermotion2/index.m3u8
+#EXTINF:-1,Hypermotion 3 HD es
+http://195.178.110.110/hypermotion3/index.m3u8
+#EXTINF:-1,Azteca 7
+http://195.178.110.110/azteca7/index.m3u8
+#EXTINF:-1,Canal5 HD
+http://195.178.110.110/canal5/index.m3u8
+#EXTINF:-1,Telemundo
+http://195.178.110.110/telemundo/index.m3u8
+#EXTINF:-1,Movistar
+http://195.178.110.110/movistar/index.m3u8
+#EXTINF:-1,Unimas
+http://190.197.41.183/Unimas/index.m3u8
+#EXTINF:-1,Univision
+http://195.178.110.110/univision/index.m3u8
+#EXTINF:-1,Universo
+http://195.178.110.110/universo/index.m3u8
+#EXTINF:-1,Disney 3
+http://195.178.110.110/disney3/index.m3u8
+#EXTINF:-1,AMC PL HD
+https://lon1-y7p7cyzc7vdh.lolokoko.tv/f_amc.stream/playlist.m3u8
+#EXTINF:-1,Ale Kino PL
+https://lon1-y7p7cyzc7vdh.lolokoko.tv/f_alekino.stream/playlist.m3u8
+#EXTINF:-1,AXN PL HD
+https://lon1-y7p7cyzc7vdh.lolokoko.tv/f_axnpolska.stream/playlist.m3u8
+#EXTINF:-1,AXN White
+https://lon1-y7p7cyzc7vdh.lolokoko.tv/f_axnwhite.stream/playlist.m3u8
+#EXTINF:-1,AXN Black PL
+https://lon1-y7p7cyzc7vdh.lolokoko.tv/f_axnblack.stream/playlist.m3u8
+#EXTINF:-1,AXN Spin PL
+https://lon1-y7p7cyzc7vdh.lolokoko.tv/f_axnspin.stream/playlist.m3u8
+#EXTINF:-1,Canal+ Film PL
+https://lon1-y7p7cyzc7vdh.lolokoko.tv/f_CanalPlusFilm.stream/playlist.m3u8
+#EXTINF:-1,Canal+ Premium PL
+https://lon1-y7p7cyzc7vdh.lolokoko.tv/f_CanalPlusHD.stream/playlist.m3u8
+#EXTINF:-1,Canal+ Seriale PL
+https://lon1-y7p7cyzc7vdh.lolokoko.tv/f_CanalPlusSeriale.stream/playlist.m3u8
+#EXTINF:-1,Canal+ Domo HD
+https://lon1-y7p7cyzc7vdh.lolokoko.tv/f_domo.stream/playlist.m3u8
+#EXTINF:-1 ,TVP Sport
+https://lon1-y7p7cyzc7vdh.lolokoko.tv/f_TVPSport.stream/playlist.m3u8
+#EXTINF:-1,Polsat Sport PL
+https://lon1-y7p7cyzc7vdh.lolokoko.tv/f_polsatsport.stream/playlist.m3u8
+#EXTINF:-1,Polsat Sport Extra PL
+https://lon1-y7p7cyzc7vdh.lolokoko.tv/f_polsatsportextra.stream/playlist.m3u8
+#EXTINF:-1,Canal+ Sport 2 PL
+https://lon1-y7p7cyzc7vdh.lolokoko.tv/f_canalplussport2.stream/playlist.m3u8
+#EXTINF:-1,Canal+ Sport 3 PL
+https://lon1-y7p7cyzc7vdh.lolokoko.tv/f_canalplussport3.stream/playlist.m3u8
+#EXTINF:-1,Canal+ Sport 4 PL
+https://lon1-y7p7cyzc7vdh.lolokoko.tv/f_canalplussport4.stream/playlist.m3u8
+#EXTINF:-1,Canal+ Sport 5 PL
+https://lon1-y7p7cyzc7vdh.lolokoko.tv/f_canalplussport5.stream/playlist.m3u8
+#EXTINF:-1,Canal+ Sport 6 PL
+https://lon1-y7p7cyzc7vdh.lolokoko.tv/f_canalplussport6.stream/playlist.m3u8
+#EXTINF:-1,Canal+ Sport 7 PL
+https://lon1-y7p7cyzc7vdh.lolokoko.tv/f_canalplussport7.stream/playlist.m3u8
+#EXTINF:-1,Eurosport 1
+https://lon1-y7p7cyzc7vdh.lolokoko.tv/f_Eurosport1.stream/playlist.m3u8
+#EXTINF:-1,Eurosport 2
+https://lon1-y7p7cyzc7vdh.lolokoko.tv/f_Eurosport2.stream/playlist.m3u8
+#EXTINF:-1,Fightbox HD
+https://lon1-y7p7cyzc7vdh.lolokoko.tv/f_Fightbox.stream/playlist.m3u8
+#EXTINF:-1,Motowizja PL HD
+https://lon1-y7p7cyzc7vdh.lolokoko.tv/f_motowizja.stream/playlist.m3u8
+#EXTINF:-1,Polsat Sport News PL
+https://lon1-y7p7cyzc7vdh.lolokoko.tv/f_polsatsportnews.stream/playlist.m3u8
+#EXTINF:-1,Cinemax 1 PL HD
+https://lon1-y7p7cyzc7vdh.lolokoko.tv/f_cinemax1.stream/playlist.m3u8
+#EXTINF:-1,Cinemax 2 PL HD
+https://lon1-y7p7cyzc7vdh.lolokoko.tv/f_cinemax2.stream/playlist.m3u8
+#EXTINF:-1,Comedy Central PL
+https://lon1-y7p7cyzc7vdh.lolokoko.tv/f_ComedyCentralPolska.stream/playlist.m3u8
+#EXTINF:-1,FilmBox PL HD
+https://lon1-y7p7cyzc7vdh.lolokoko.tv/f_filmbox.stream/playlist.m3u8
+#EXTINF:-1,FilmBox Extra PL
+https://lon1-y7p7cyzc7vdh.lolokoko.tv/f_FilmBoxExtra.stream/playlist.m3u8
+#EXTINF:-1,FilmBox Action PL
+https://lon1-y7p7cyzc7vdh.lolokoko.tv/f_FilmBoxAction.stream/playlist.m3u8
+#EXTINF:-1,FilmBox Family PL
+https://lon1-y7p7cyzc7vdh.lolokoko.tv/f_FilmBoxFamily.stream/playlist.m3u8
+#EXTINF:-1,FilmBox Arthouse PL
+https://lon1-y7p7cyzc7vdh.lolokoko.tv/f_FilmBoxArthouse.stream/playlist.m3u8
+#EXTINF:-1,FilmBox Premium PL HD
+https://lon1-y7p7cyzc7vdh.lolokoko.tv/f_filmboxpremium.stream/playlist.m3u8
+#EXTINF:-1,FOX PL
+https://lon1-y7p7cyzc7vdh.lolokoko.tv/f_FOXPolska.stream/playlist.m3u8
+#EXTINF:-1,FOX Comedy PL
+https://lon1-y7p7cyzc7vdh.lolokoko.tv/f_FOXComedy.stream/playlist.m3u8
+#EXTINF:-1,HBO PL HD
+https://lon1-y7p7cyzc7vdh.lolokoko.tv/f_HBO1.stream/playlist.m3u8
+#EXTINF:-1,HBO 2 PL HD
+https://lon1-y7p7cyzc7vdh.lolokoko.tv/f_HBO2.stream/playlist.m3u8
+#EXTINF:-1,HBO 3 PL HD
+https://lon1-y7p7cyzc7vdh.lolokoko.tv/f_HBO3.stream/playlist.m3u8
+#EXTINF:-1,Epic Drama
+https://lon1-y7p7cyzc7vdh.lolokoko.tv/f_EpicDrama.stream/playlist.m3u8
+#EXTINF:-1,Kino TV PL HD
+https://lon1-y7p7cyzc7vdh.lolokoko.tv/f_kinopolska.stream/playlist.m3u8
+#EXTINF:-1,Super Polsat PL HD
+https://lon1-y7p7cyzc7vdh.lolokoko.tv/f_SuperPolsat.stream/playlist.m3u8
+#EXTINF:-1,Polsat HD PL
+https://lon1-y7p7cyzc7vdh.lolokoko.tv/f_Polsat.stream/playlist.m3u8
+#EXTINF:-1,Polsat 2 PL
+https://lon1-y7p7cyzc7vdh.lolokoko.tv/f_Polsat2.stream/playlist.m3u8
+#EXTINF:-1,Polsat Cafe
+https://lon1-y7p7cyzc7vdh.lolokoko.tv/f_PolsatCafe.stream/playlist.m3u8
+#EXTINF:-1,Polsat Games
+https://lon1-y7p7cyzc7vdh.lolokoko.tv/f_PolsatGames.stream/playlist.m3u8
+#EXTINF:-1,Polsat Rodzina
+https://lon1-y7p7cyzc7vdh.lolokoko.tv/f_PolsatRodzina.stream/playlist.m3u8
+#EXTINF:-1,Polsat Film PL
+https://lon1-y7p7cyzc7vdh.lolokoko.tv/f_PolsatFilm.stream/playlist.m3u8
+#EXTINF:-1,Polsat Play HD
+https://lon1-y7p7cyzc7vdh.lolokoko.tv/f_PolsatPlay.stream/playlist.m3u8
+#EXTINF:-1,Polsat Music PL HD
+https://lon1-y7p7cyzc7vdh.lolokoko.tv/f_polsatmusic.stream/playlist.m3u8
+#EXTINF:-1,TVPInfo PL HD
+https://lon1-y7p7cyzc7vdh.lolokoko.tv/f_TVPInfo.stream/playlist.m3u8
+#EXTINF:-1,TELE 5 PL
+https://lon1-y7p7cyzc7vdh.lolokoko.tv/f_Tele5.stream/playlist.m3u8
+#EXTINF:-1,TV PULS PL HD
+https://lon1-y7p7cyzc7vdh.lolokoko.tv/f_tvpuls.stream/playlist.m3u8
+#EXTINF:-1,TV PULS 2 PL HD
+https://lon1-y7p7cyzc7vdh.lolokoko.tv/f_tvpuls2.stream/playlist.m3u8
+#EXTINF:-1,TVP SERIALE
+https://lon1-y7p7cyzc7vdh.lolokoko.tv/f_TVPSeriale.stream/playlist.m3u8
+#EXTINF:-1,TVP PL
+https://lon1-y7p7cyzc7vdh.lolokoko.tv/f_tvppolonia.stream/playlist.m3u8
+#EXTINF:-1,TVP 1 PL
+https://lon1-y7p7cyzc7vdh.lolokoko.tv/f_TVP1.stream/playlist.m3u8
+#EXTINF:-1,TVP 2 PL
+https://lon1-y7p7cyzc7vdh.lolokoko.tv/f_TVP2.stream/playlist.m3u8
+#EXTINF:-1,TV 4 PL
+https://lon1-y7p7cyzc7vdh.lolokoko.tv/f_TV4.stream/playlist.m3u8
+#EXTINF:-1,TV 6 PL
+https://lon1-y7p7cyzc7vdh.lolokoko.tv/f_TV6.stream/playlist.m3u8
+#EXTINF:-1,TVN 6 PL
+https://lon1-y7p7cyzc7vdh.lolokoko.tv/f_TVN7.stream/playlist.m3u8
+#EXTINF:-1,TVN PL
+https://lon1-y7p7cyzc7vdh.lolokoko.tv/f_tvn.stream/playlist.m3u8
+#EXTINF:-1,TVP Kultura HD
+https://lon1-y7p7cyzc7vdh.lolokoko.tv/f_TVPKultura.stream/playlist.m3u8
+#EXTINF:-1,TTV PL
+https://lon1-y7p7cyzc7vdh.lolokoko.tv/f_TTV.stream/playlist.m3u8
+#EXTINF:-1,TVN24BIS
+https://lon1-y7p7cyzc7vdh.lolokoko.tv/f_TVN24BIS.stream/playlist.m3u8
+#EXTINF:-1,TVPNauka
+https://lon1-y7p7cyzc7vdh.lolokoko.tv/f_TVPNauka.stream/playlist.m3u8
+#EXTINF:-1,TVNStyle
+https://lon1-y7p7cyzc7vdh.lolokoko.tv/f_TVNStyle.stream/playlist.m3u8
+#EXTINF:-1,TVN24
+https://lon1-y7p7cyzc7vdh.lolokoko.tv/f_TVN24.stream/playlist.m3u8
+#EXTINF:-1,Romance TV HD PL
+https://lon1-y7p7cyzc7vdh.lolokoko.tv/f_Romance.stream/playlist.m3u8
+#EXTINF:-1,Stars TV PL
+https://lon1-y7p7cyzc7vdh.lolokoko.tv/f_starstv.stream/playlist.m3u8
+#EXTINF:-1,Syfy PL
+https://lon1-y7p7cyzc7vdh.lolokoko.tv/f_SciFi.stream/playlist.m3u8
+#EXTINF:-1,13 Ulica PL
+https://lon1-y7p7cyzc7vdh.lolokoko.tv/f_13Ulica.stream/playlist.m3u8
+#EXTINF:-1,WarnerTV PL
+https://lon1-y7p7cyzc7vdh.lolokoko.tv/f_TNT.stream/playlist.m3u8
+#EXTINF:-1,Novelas+ HD
+https://lon1-y7p7cyzc7vdh.lolokoko.tv/f_novelas.stream/playlist.m3u8
+#EXTINF:-1,Novela TV PL
+https://lon1-y7p7cyzc7vdh.lolokoko.tv/f_Novela.stream/playlist.m3u8
+#EXTINF:-1,Sundance HD
+https://lon1-y7p7cyzc7vdh.lolokoko.tv/f_sundance.stream/playlist.m3u8
+#EXTINF:-1,Stopklatka.tv HD
+https://lon1-y7p7cyzc7vdh.lolokoko.tv/f_Stopklatkatv.stream/playlist.m3u8
+#EXTINF:-1,Antena HD
+https://lon1-y7p7cyzc7vdh.lolokoko.tv/f_antenatv.stream/playlist.m3u8
+#EXTINF:-1,TLC HD
+https://lon1-y7p7cyzc7vdh.lolokoko.tv/f_tlc.stream/playlist.m3u8
+#EXTINF:-1,TVPHistoria HD
+https://lon1-y7p7cyzc7vdh.lolokoko.tv/f_TVPHistoria.stream/playlist.m3u8
+#EXTINF:-1,Polsat Discovery Channel HD
+https://lon1-y7p7cyzc7vdh.lolokoko.tv/f_discoverychannel.stream/playlist.m3u8
+#EXTINF:-1,Polsat Discovery Sience HD
+https://lon1-y7p7cyzc7vdh.lolokoko.tv/f_discoverysience.stream/playlist.m3u8
+#EXTINF:-1,Polsat History HD
+https://lon1-y7p7cyzc7vdh.lolokoko.tv/f_history.stream/playlist.m3u8
+#EXTINF:-1,Polsat History2 HD
+https://lon1-y7p7cyzc7vdh.lolokoko.tv/f_h2.stream/playlist.m3u8
+#EXTINF:-1,Polsat Viasat History HD
+https://lon1-y7p7cyzc7vdh.lolokoko.tv/f_ViasatHistory.stream/playlist.m3u8
+#EXTINF:-1,Polsat Viasat Nature HD
+https://lon1-y7p7cyzc7vdh.lolokoko.tv/f_ViasatNature.stream/playlist.m3u8
+#EXTINF:-1,Polsat Viasat Explore HD
+https://lon1-y7p7cyzc7vdh.lolokoko.tv/f_ViasatExplore.stream/playlist.m3u8
+#EXTINF:-1,National Geographic
+https://lon1-y7p7cyzc7vdh.lolokoko.tv/f_NationalGeographicHD.stream/playlist.m3u8
+#EXTINF:-1,Nat Geo People HD
+https://lon1-y7p7cyzc7vdh.lolokoko.tv/f_NatGeoPeople.stream/playlist.m3u8
+#EXTINF:-1,Nat Geo HD
+https://lon1-y7p7cyzc7vdh.lolokoko.tv/f_NatGeo.stream/playlist.m3u8
+#EXTINF:-1,Nat Geo Wild HD
+https://lon1-y7p7cyzc7vdh.lolokoko.tv/f_NatGeoWild.stream/playlist.m3u8
+#EXTINF:-1,Animal Planet
+https://lon1-y7p7cyzc7vdh.lolokoko.tv/f_AnimalPlanet.stream/playlist.m3u8
+#EXTINF:-1,Discovery Life
+https://lon1-y7p7cyzc7vdh.lolokoko.tv/f_DiscoveryLife.stream/playlist.m3u8
+#EXTINF:-1,TVNTurbo
+https://lon1-y7p7cyzc7vdh.lolokoko.tv/f_TVNTurbo.stream/playlist.m3u8
+#EXTINF:-1,Polsat DTX HD
+https://lon1-y7p7cyzc7vdh.lolokoko.tv/f_DTX.stream/playlist.m3u8
+#EXTINF:-1,Polsat PolsatDoku HD
+https://lon1-y7p7cyzc7vdh.lolokoko.tv/f_PolsatDoku.stream/playlist.m3u8
+#EXTINF:-1,Water Planet SD
+https://lon1-y7p7cyzc7vdh.lolokoko.tv/f_waterplanet.stream/playlist.m3u8
+#EXTINF:-1,BBC Earth HD
+https://lon1-y7p7cyzc7vdh.lolokoko.tv/f_bbcearth.stream/playlist.m3u8
+#EXTINF:-1,BBC First PL
+https://lon1-y7p7cyzc7vdh.lolokoko.tv/f_bbcbrit.stream/playlist.m3u8
+#EXTINF:-1,Metro TV HD
+https://lon1-y7p7cyzc7vdh.lolokoko.tv/f_MetroTV.stream/playlist.m3u8
+#EXTINF:-1,Zoom TV HD
+https://lon1-y7p7cyzc7vdh.lolokoko.tv/f_ZoomTV.stream/playlist.m3u8
+#EXTINF:-1,HGTV HD
+https://lon1-y7p7cyzc7vdh.lolokoko.tv/f_hgtv.stream/playlist.m3u8
+#EXTINF:-1,FoodNetwork HD
+https://lon1-y7p7cyzc7vdh.lolokoko.tv/f_FoodNetwork.stream/playlist.m3u8
+#EXTINF:-1,TVP ABC HD
+https://lon1-y7p7cyzc7vdh.lolokoko.tv/f_TVPABC.stream/playlist.m3u8
+#EXTINF:-1,TVP ABC 2 HD
+https://lon1-y7p7cyzc7vdh.lolokoko.tv/f_tvpabc2.stream/playlist.m3u8
+#EXTINF:-1,Disney XD HD
+https://lon1-y7p7cyzc7vdh.lolokoko.tv/f_DisneyXD.stream/playlist.m3u8
+#EXTINF:-1,Disney Junior HD
+https://lon1-y7p7cyzc7vdh.lolokoko.tv/f_DisneyJunior.stream/playlist.m3u8
+#EXTINF:-1,MiniMini+ PL HD
+https://lon1-y7p7cyzc7vdh.lolokoko.tv/f_minimini.stream/playlist.m3u8
+#EXTINF:-1,teleTOON HD
+https://lon1-y7p7cyzc7vdh.lolokoko.tv/f_teleTOON.stream/playlist.m3u8
+#EXTINF:-1,Nicktoons HD
+https://lon1-y7p7cyzc7vdh.lolokoko.tv/f_Nicktoons.stream/playlist.m3u8
+#EXTINF:-1,Nickelodeon
+https://lon1-y7p7cyzc7vdh.lolokoko.tv/f_Nickelodeon.stream/playlist.m3u8
+#EXTINF:-1,Nick Jr
+https://lon1-y7p7cyzc7vdh.lolokoko.tv/f_NickJr.stream/playlist.m3u8
+#EXTINF:-1,NowaTV HD
+https://lon1-y7p7cyzc7vdh.lolokoko.tv/f_NowaTV.stream/playlist.m3u8
+#EXTINF:-1,Da Vinci HD
+https://lon1-y7p7cyzc7vdh.lolokoko.tv/f_davinci.stream/playlist.m3u8
+#EXTINF:-1,Baby TV HD
+https://lon1-y7p7cyzc7vdh.lolokoko.tv/f_BabyTV.stream/playlist.m3u8
+#EXTINF:-1,MTV
+https://lon1-y7p7cyzc7vdh.lolokoko.tv/f_mtvpolska.stream/playlist.m3u8
+#EXTINF:-1,VOX music TV HD
+https://lon1-y7p7cyzc7vdh.lolokoko.tv/f_VOXmusic.stream/playlist.m3u8
+#EXTINF:-1,PoloTV HD
+https://lon1-y7p7cyzc7vdh.lolokoko.tv/f_PoloTV.stream/playlist.m3u8
+#EXTINF:-1,Disco Polo Music HD
+https://lon1-y7p7cyzc7vdh.lolokoko.tv/f_DiscoPoloMusic.stream/playlist.m3u8
+#EXTINF:-1,EskaTV extra HD
+https://lon1-y7p7cyzc7vdh.lolokoko.tv/f_EskaTVextra.stream/playlist.m3u8
+#EXTINF:-1,Eska TV
+https://lon1-y7p7cyzc7vdh.lolokoko.tv/f_Eskatv.stream/playlist.m3u8
+#EXTINF:-1,Nuta
+https://lon1-y7p7cyzc7vdh.lolokoko.tv/f_nuta.stream/playlist.m3u8
+#EXTINF:-1,4Fun TV PL
+https://lon1-y7p7cyzc7vdh.lolokoko.tv/f_4funtv.stream/playlist.m3u8
+#EXTINF:-1,4Fun Dance PL
+https://lon1-y7p7cyzc7vdh.lolokoko.tv/f_4fundance.stream/playlist.m3u8
+#EXTINF:-1,Eska Rock HD
+https://lon1-y7p7cyzc7vdh.lolokoko.tv/f_PowerTV.stream/playlist.m3u8
+#EXTINF:-1,Kino Polska Muzyka HD
+https://lon1-y7p7cyzc7vdh.lolokoko.tv/f_kinopolskamuzyka.stream/playlist.m3u8
+#EXTINF:-1,TVS HD
+https://lon1-y7p7cyzc7vdh.lolokoko.tv/f_TVS.stream/playlist.m3u8
+#EXTINF:-1,TV Trwam HD
+https://lon1-y7p7cyzc7vdh.lolokoko.tv/f_TVTrwam.stream/playlist.m3u8
+#EXTINF:-1,PolsatNews
+https://lon1-y7p7cyzc7vdh.lolokoko.tv/f_PolsatNews.stream/playlist.m3u8
+#EXTINF:-1,Brazzers TV HD
+https://lon1-y7p7cyzc7vdh.lolokoko.tv/f_brazzerstv.stream/playlist.m3u8
+#EXTINF:-1,XXL HD
+https://lon1-y7p7cyzc7vdh.lolokoko.tv/f_xxl.stream/playlist.m3u8
+#EXTINF:-1,Dorcel TV HD
+https://lon1-y7p7cyzc7vdh.lolokoko.tv/f_dorceltv.stream/playlist.m3u8
+#EXTINF:-1,Hustler HD
+https://lon1-y7p7cyzc7vdh.lolokoko.tv/f_hustler.stream/playlist.m3u8
+#EXTINF:-1,Private TV hd
+https://lon1-y7p7cyzc7vdh.lolokoko.tv/f_private.stream/playlist.m3u8
+#EXTINF:-1,Redlight HD
+https://lon1-y7p7cyzc7vdh.lolokoko.tv/f_redlight.stream/playlist.m3u8
