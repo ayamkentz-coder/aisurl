@@ -1,3 +1,7 @@
+1,DHAYAN TV 1,https://raw.githubusercontent.com/dhasap/dhanytv/refs/heads/main/dhanytv.m3u
+1,DHAYAN TV 2,https://raw.githubusercontent.com/dhasap/dhanytv/refs/heads/main/dhanytv-ott.m3u
+1,VISION PLUS,https://raw.githubusercontent.com/Muraya99/TV-Indo/refs/heads/main/VISION%2B
+1,HOME TV,https://raw.githubusercontent.com/ahyar227/Ramli-Iptv/refs/heads/main/INDONESIA-TV.m3u
 1,BEST OFF,https://raw.githubusercontent.com/sportlive18/jio-tv-auto-update-playlist/refs/heads/main/ALL.m3u
 1,COMBINE TV,https://raw.githubusercontent.com/sportlive18/jio-tv-auto-update-playlist/refs/heads/main/Combined.m3u
 1,LIVE TV,https://raw.githubusercontent.com/sportlive18/jio-tv-auto-update-playlist/refs/heads/main/Live.m3u
