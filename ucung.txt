@@ -11,6 +11,7 @@
 1,STAR TV 1,https://raw.githubusercontent.com/sportlive18/jio-tv-auto-update-playlist/refs/heads/main/SPORT.m3u
 1,STAR TV 2,https://raw.githubusercontent.com/sportlive18/jio-tv-auto-update-playlist/refs/heads/main/Star2.m3u
 1,ZEE TV,https://raw.githubusercontent.com/sportlive18/jio-tv-auto-update-playlist/refs/heads/main/jtvplus2.m3u
+1,STABLE TV,https://iptv.devforge.qzz.io/playlist/playlist.m3u
 3,DENMARK HEADEND,http://37.26.83.206:9981
 3,HUNGARY HEADEND,http://62.201.94.161:9981
 3,ITALY HEADEND,http://37.159.243.106:9981
