@@ -1,6 +1,6 @@
 1,JIO TV,https://raw.githubusercontent.com/sportlive18/jio-tv-auto-update-playlist/refs/heads/main/Airtel.m3u
 2,YOLO MAX,http://yolomax.pro:80,3Q43L4L,59R3J6J
-3,DENMARK HEADEND,http://37.26.83.206:9981
+3,DENMARK HEADEND,http://37.26.83.206:9981/playlist
 3,HUNGARY HEADEND,http://62.201.94.161:9981/playlist
 3,ITALY HEADEND,http://37.159.243.106:9981/playlist
 3,CZ SPORT HEADEND,http://89.46.42.96:9981/playlist
