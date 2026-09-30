@@ -1,8 +1,1 @@
-2,OTT MAG,http://mag.greatott.me,A0:BB:3E:01:61:71
-2,OXYGEN TV,http://013tv.com:8080,F33848,cbd9779b
-2,STREAM TV,http://edinpajalic.streamtv.to:8080,xtraiptv7200,q3UA72Y9Pk
-1,CHINA 1,https://raw.githubusercontent.com/cupid940322/iptv-playlist/refs/heads/main/china-local.m3u
-1,CHINA 2,https://raw.githubusercontent.com/cupid940322/iptv-playlist/refs/heads/main/china.m3u
-1,NEXUS BEST,https://dearbulut.github.io/iptv/playlists/best.m3u
-1,NEXUS WORKING,https://dearbulut.github.io/iptv/playlists/online.m3u
-1,NEXUS EVERYTHING,https://dearbulut.github.io/iptv/playlists/index.m3u
+2,XSTREAM TV,http://edinpajalic.streamtv.to:8080,xtraiptv7200,q3UA72Y9Pk
