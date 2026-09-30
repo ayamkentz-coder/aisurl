@@ -1,3 +1,4 @@
 1,MALING TV,https://malingpunya.ervinkasep01.workers.dev/playlist.m3u
+1,HOME TV,https://raw.githubusercontent.com/ayamkentz-coder/aisurl/refs/heads/main/idih.m3u
 1,STREAM TV,http://edinpajalic.streamtv.to:8080/get.php?username=xtraiptv7200&password=q3UA72Y9Pk&output=ts&type=m3u_plus
 1,PLANET WEB TV,http://planettvweb.com:8091/get.php?username=Garreta25&password=DFur4638d&output=ts&type=m3u_plus
