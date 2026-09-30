@@ -1,4 +1,4 @@
 2,XSTREAM OTT,http://edinpajalic.streamtv.to:8080,xtraiptv7200,q3UA72Y9Pk
-2,TIGER OTT,http://mag.tiger-ott.net:80/c/,00:1A:79:f5:ce:db
-2,BVV 01 OTT,http://bvv01.com:8080/c/,00:1B:79:FF:08:6B
-2,ALPHA OTT,http://alpha-ott1.me:80/c/,A0:BB:3E:03:B0:04
+4,TIGER OTT,http://mag.tiger-ott.net:80/c/,00:1A:79:f5:ce:db
+4,BVV 01 OTT,http://bvv01.com:8080/c/,00:1B:79:FF:08:6B
+4,ALPHA OTT,http://alpha-ott1.me:80/c/,A0:BB:3E:03:B0:04
