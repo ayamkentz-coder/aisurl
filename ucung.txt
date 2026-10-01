@@ -1,4 +1,5 @@
 1,SPORT ACTIVE,https://raw.githubusercontent.com/zawyarzaraung/m3u-sports-extractor/main/playlist/active.m3u
-1,LIVE INDONESIA,https://raw.githubusercontent.com/konanda-sg/LiveTVCollector/refs/heads/main/LiveTV/Indonesia/LiveTV.m3u
-2,XSTREAM OTT,http://edinpajalic.streamtv.to:8080,xtraiptv7200,q3UA72Y9Pk
+4,MAX CDN,http://mag.max-cdn.com/c/, 00:1A:79:B6:39:9A
 4,PRIVATE SEVER,http://p2.iptvprivateserver.ru/c/,00:1A:79:B0:67:FE
+4,OWDN TV,http://main2.cwdn.cx/c/,00:1A:79:B4:E8:3C
+4,KOSNET,http://ott.kosnet.com:8080/c/,00:1A:79:44:f2:2c
