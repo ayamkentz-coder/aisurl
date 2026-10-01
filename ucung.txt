@@ -3,3 +3,5 @@
 4,PRIVATE SEVER,http://p2.iptvprivateserver.ru/c/,00:1A:79:B0:67:FE
 4,OWDN TV,http://main2.cwdn.cx/c/,00:1A:79:B4:E8:3C
 4,KOSNET,http://ott.kosnet.com:8080/c/,00:1A:79:44:f2:2c
+4,NEXUS CONNECT,http://nexusconnects.org:80/c/,00:1A:79:4F:CF:96
+4,IPTV NOW,http://iptvnow.nl:80/c/,00:1A:79:B6:5E:9E
